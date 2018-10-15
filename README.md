@@ -1,5 +1,5 @@
 # Arduino_Sensor_2018
 !
 
-![alt text](C:/Users/Fluffy/Documents/Epitech/Sensors/Side.jpg)
-![alt text](C:/Users/Fluffy/Documents/Epitech/Sensors/Up.jpg)
+![picture](https://github.com/Myriam-Sadys/Arduino_Sensor_2018/blob/master/Side.jpg)
+![Other picture](https://github.com/Myriam-Sadys/Arduino_Sensor_2018/blob/master/Up.jpg)
