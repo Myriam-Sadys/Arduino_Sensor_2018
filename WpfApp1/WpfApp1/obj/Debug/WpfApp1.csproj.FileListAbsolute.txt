@@ -1,0 +1,60 @@
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\CommonServiceLocator.dll
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Fluffy\source\repos\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\CommonServiceLocator.dll
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Fluffy\Documents\Epitech\Arduino project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
